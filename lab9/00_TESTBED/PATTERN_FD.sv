@@ -1,0 +1,73 @@
+//pragma protect begin_protected
+//pragma protect encrypt_agent="NCPROTECT"
+//pragma protect encrypt_agent_info="Encrypted using API"
+//pragma protect key_keyowner=Cadence Design Systems.
+//pragma protect key_keyname=prv(CDS_RSA_KEY_VER_1)
+//pragma protect key_method=RSA
+//pragma protect key_block
+L4bySQ8ecYSwEnEWH04LXMQpyWRGDUaBRn9KN28bD0sPegoSV6GNndFS479qUy+s
+3VLWETrYUhTVEfvYLeEMCZw9sfthXswW3Jnf/mtor5MsGcSnVxgylar8zyLrr8jp
+Kbl3flvIw5e5LiRj9HuJXnRRg2WiWF9hhqF0U7EOlWzxL4UidEwVmGzOAFJnXaUv
+ob5TwEFEwho84MrLhAx80B/NpnybwM8Uhd1yMlBTgVpix35IuBHDlsESiyDdSc+a
+UfsRjtc0OtHKBVWuLJ+amWsTQEaUPcHFG+wNjHtPUYkj4eqTVAZf2XACzRVgsuVe
+n7fYEE+DV5KR/NKlOdXHWQ==
+//pragma protect end_key_block
+//pragma protect digest_block
+1mSaF5jmbLSzyO0ATIMU8eMWh38=
+//pragma protect end_digest_block
+//pragma protect data_block
+RjmsbuX1jQgS69JL1a3eEbRImQOhJUxuV4e7TdT8nCXRCzqr9F6kEqnsbVZDz137
+/hoRu1pAzIk7HAWewyVk4A1XG7kzm2OOKM0eC74sp0uEOh7My3KaVZVaRbvgWh/3
+atpyeVj4qQhMyk2Js/mHyav4T/RJkn0Kx4/ZWAkZbEdTNWRJa1Qm57avSoqUcc9K
+4rsW3uUYIv6btxI2fm3W++Y8soBGI/qD+Fv31v3B0OfZRU+BgRp7IWZ6np3jw/l7
+J+P7XOoHFajWhSK9dd5rq77/d4PmJELGrA3ikmDMSDjTa7t9kYqkh76AOTQRYYmY
+oS5vT9w9GZu3fL5awWDfPA==
+//pragma protect end_data_block
+//pragma protect digest_block
+CwIGhc3OY5EWVjXl2nAZtvuSj4s=
+//pragma protect end_digest_block
+//pragma protect end_protected
+`include "Usertype_FD.sv"
+//pragma protect begin_protected
+//pragma protect encrypt_agent="NCPROTECT"
+//pragma protect encrypt_agent_info="Encrypted using API"
+//pragma protect key_keyowner=Cadence Design Systems.
+//pragma protect key_keyname=prv(CDS_RSA_KEY_VER_1)
+//pragma protect key_method=RSA
+//pragma protect key_block
+p9gjyDe5s5nykdEu3etSSNy7dBDLRNuvTuhf+HTru/NiarfFcbFlhyL3te5arEuO
+Mk5asPdgCq9m4Y5gpjibhbnhTWEYsbVTAB0iVqIYykTwWoglUuzlQrDkf2ydogGQ
+bnsGWqL7Zp5i/Ld44tFkoO3UqYyJYZ/gFGj99+8Obwez7BLwHFB3W+iIsWtrvdbx
+U1stY2fHkYhF4I/QwHXw2+pkXb7kQoFBsjG8riWq6Mi13IYFx30dLh/au27uPvZ7
+nfEXcyNw4Usk0lVKCfzWiUur6XTzllnK3TRRru0K/JfJGoE8Uj3LqbnLfVYfK6jx
+/ZrpGpeq94DGF2Ak0zkZbg==
+//pragma protect end_key_block
+//pragma protect digest_block
+mUkEkxKsEzC5tJgfC95kgR+VuKY=
+//pragma protect end_digest_block
+//pragma protect data_block
+VAZoIe/OagEls8q+mgwF1PNyAlae9+9eWD5Bp4BHNPhWaUt4Sop63BVayFswfFK1
+5oqg4kpZb3iwmnAZ2Bfyg21F5y9Huv69yGp0fpIWnjMMUqCpmzmXIyMjOTDdd86E
+7IAG7iHMqFVuvjqR4G5woPvUgXhCYq8Z4ozri745f9i6n3v1B8mbel24303MnpAU
+E8b3ZgaL+M13/y/uc4W40tNxJsB8otvaFX+F7Dna2OXdN8wOrQ8aFfbI2lLZS07C
+YoOWJGCPgUwtZ8ZY006eMc4kacXYpvObCiXf86GXrx+KrxaU8TXNxf9oU6NneDpU
+Cs3zeOckLYrV1b+GPhsoIpaFBHUfbmWr6RwQ8KXt9UnBGnF4Fw/abD4EmNWLhtjv
+5M2pCMSo709S7y/mruplK3rwQRjJJaXeSv7mKT/AUgLZXrwmdriV0RiawqPiVX0s
+NE8B5CVc9ZUpm8EjGyO/izltr8Un4LiVn1y5WerCQkR2hbdKrNCVZ0ACFdqQWfRE
+GgxSGcXGc5vR7zC/eXhMsqviG0Gvt5RFdfIqH4F+bo8HziV6uG7igAQl3Pw/Tg5Q
+Xef/nu/+62i1Si/Ty2h5JOOdL1bzESfwKuVY9ZzxzBtcIl2Fv7dPmXqsmiKb3/36
+mhnDwS2PRDZeQZd0swPUEr7iH1qfNzG91OKd6oG4vvT4UJPiOCVGz5aFt8I0FO5l
+6oOwui42RiTfCn3UZfhmt9Oci7iEK+TPY29zGfftkTs1qVW+H2JGBnb37OycziC+
+pVkdwC4x+XScyMt8NRdDA8gczEvd2EF06Kj+d9DL49lNGfMM/7KqHg3XiYvKY6u5
+QD0q3af+mX8NipIq9oR0Y3ib8gPjlISvJ5s/thJTyIyASsGfME2871fZYHOueFFE
+SC2uWMHOMFIPH5yyEHOvDs2ToGbXgZ4dDLce2pOQGZ8huRex96eWmWG8OunBng+g
+2z8ZGXAxNo15opfpZK4qWctLX3uuOZN9+jWsZmC31ixvrS75M6Oo0S/kljFudRoy
+hti+1ntanq7nPw48QI0SJ0iLZD0xrEHuiJY7CTgLZaMSt9HokMqbExRuAe18Ee42
+yvgdv1rafWfGwTxd5/Gqq6wH3D3qYC4ONmDG9jGwXecvBFVLQs9h5LNXFZnsvoTC
+tAvyDCMg8clpwIA+1vBu/4IuPePMMSeaeOqDVdIpNJwUdpN8/Wvdk1eD5xTTiCCO
+QmHOV71AQp3hPcaFb1b86aLIhRPZfkGW4R76pZHV1JA=
+//pragma protect end_data_block
+//pragma protect digest_block
+V8vK0qEv8ytQfovdz8KKAMdUwfk=
+//pragma protect end_digest_block
+//pragma protect end_protected
