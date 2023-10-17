@@ -16,7 +16,7 @@
 * lab3  &emsp;&thinsp;&nbsp; &rarr;  ***testbench & pattern***
 * lab4  &emsp;&thinsp;&nbsp; &rarr;  ***IP***
 * lab5  &emsp;&thinsp;&nbsp; &rarr;  ***SRAM***
-* lab6  &emsp;&thinsp;&nbsp; &rarr;  ***syntehsis, design compiler***
+* lab6  &emsp;&thinsp;&nbsp; &rarr;  ***synthesis, design compiler***
 * lab7  &emsp;&thinsp;&nbsp; &rarr;  ***STA, CDC, cross clk domain***
 * lab8  &emsp;&thinsp;&nbsp; &rarr;  ***low power***
 * lab9  &emsp;&thinsp;&nbsp; &rarr;  ***SystemVerilog design***
@@ -27,5 +27,5 @@
 <br> </br>
 
 pdf file password: ***秋天年分這堂課的英文小寫***
-### If anything bother, please contact: <holyuming.ee08@nycu.edu.tw>
+### If anything bother, please contact: <holyuming.ee12@nycu.edu.tw>
 👍👍👍
